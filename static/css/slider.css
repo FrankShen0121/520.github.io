@@ -25,10 +25,14 @@ ul {
     list-style-type: none;
     width: 6000px;
     /*transition-duration: 0.3s;*/
+    display: table;
+    margin: 0 auto;
 }
 
 li {
     float: left;
+    display: table;
+    margin: 0 auto;
 }
 
 a {
