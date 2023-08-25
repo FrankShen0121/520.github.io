@@ -1,11 +1,11 @@
 * {
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 
 #slider, ul, a {
     width: 600px;
-    height: 400px;
+    height: 800px;
 }
 
 #slider {
